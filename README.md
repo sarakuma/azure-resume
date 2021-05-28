@@ -1,2 +1,2 @@
 # azure-resume
-My resume suing azure cloud
+My resume using azure cloud
